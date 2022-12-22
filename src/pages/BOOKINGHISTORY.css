@@ -1,0 +1,473 @@
+.rectangle-div {
+  top: 176px;
+  left: 24px;
+  background-color: #f6f6f6;
+  height: 259px;
+}
+.rectangle-div,
+.rectangle-div1,
+.rectangle-div2 {
+  position: absolute;
+  border-radius: 9px;
+  width: 314px;
+}
+.rectangle-div1 {
+  top: 448px;
+  left: 23px;
+  background-color: #f6f6f6;
+  height: 259px;
+}
+.rectangle-div2 {
+  top: 88px;
+  left: 24px;
+  background: linear-gradient(96.25deg, #0037c5, #08005f);
+  height: 75px;
+}
+.dashiconsarrow-down-alt2 {
+  position: absolute;
+  top: 29px;
+  left: 18px;
+  width: 20px;
+  height: 20px;
+  overflow: hidden;
+}
+.upcoming-appoinments {
+  position: absolute;
+  top: 30px;
+  left: 91px;
+  font-size: 15px;
+  text-transform: capitalize;
+  display: inline-block;
+}
+.new-booking-in-2-minutes,
+.september-2021-930-pm {
+  position: absolute;
+  text-transform: capitalize;
+  text-align: left;
+  display: inline-block;
+  height: 24px;
+}
+.new-booking-in-2-minutes {
+  top: 116px;
+  left: 40px;
+  font-size: 15px;
+  color: #fff;
+  width: 197px;
+}
+.september-2021-930-pm {
+  top: 268px;
+  left: 129px;
+  font-size: 14px;
+  width: 187px;
+}
+.appointment-with-doctor-arun,
+.appointment-with-doctor-arun1,
+.doctor-world-clinic,
+.doctor-world-clinic1,
+.september-2021-930-pm1,
+.test-x-ray-test {
+  position: absolute;
+  top: 537px;
+  left: 128px;
+  font-size: 14px;
+  text-transform: capitalize;
+  text-align: left;
+  display: inline-block;
+  width: 187px;
+  height: 24px;
+}
+.appointment-with-doctor-arun,
+.appointment-with-doctor-arun1,
+.doctor-world-clinic,
+.doctor-world-clinic1,
+.test-x-ray-test {
+  top: 613px;
+}
+.appointment-with-doctor-arun,
+.appointment-with-doctor-arun1,
+.doctor-world-clinic,
+.doctor-world-clinic1 {
+  top: 317px;
+  left: 129px;
+}
+.appointment-with-doctor-arun,
+.appointment-with-doctor-arun1,
+.doctor-world-clinic1 {
+  top: 586px;
+  left: 128px;
+}
+.appointment-with-doctor-arun,
+.appointment-with-doctor-arun1 {
+  top: 292px;
+  left: 129px;
+  color: #e97000;
+  width: 200px;
+}
+.appointment-with-doctor-arun1 {
+  top: 561px;
+  left: 128px;
+}
+.rectangle-div3 {
+  position: absolute;
+  top: 106.77px;
+  left: 237px;
+  border-radius: 50px;
+  background: linear-gradient(83.18deg, #ff8412, #d23758 70.7%, #b1008a);
+  border: 1px solid #fff;
+  box-sizing: border-box;
+  width: 86.7px;
+  height: 35.44px;
+}
+.rectangle-icon,
+.rectangle-icon1 {
+  position: absolute;
+  top: 192px;
+  left: 30px;
+  border-radius: 40px;
+  width: 78px;
+  height: 45.22px;
+}
+.rectangle-icon1 {
+  top: 464px;
+  left: 29px;
+}
+.rectangle-div4,
+.rectangle-div5,
+.rectangle-div6 {
+  position: absolute;
+  top: 197.77px;
+  left: 31px;
+  border-radius: 50px;
+  background: linear-gradient(94.33deg, #ff8412, #ff8412 0.01%, #b1008a);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 69.76px;
+  height: 35.44px;
+}
+.rectangle-div5,
+.rectangle-div6 {
+  top: 469.77px;
+  left: 30px;
+}
+.rectangle-div6 {
+  top: 470px;
+  left: 106px;
+}
+.rectangle-div7,
+.rectangle-icon2 {
+  position: absolute;
+  top: -6px;
+  left: -1px;
+  border-radius: 40px;
+  width: 78px;
+  height: 43px;
+}
+.rectangle-div7 {
+  top: 1.67px;
+  left: 0;
+  border-radius: 50px;
+  background: linear-gradient(94.33deg, #f1f1f1, #f1f1f1);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 69.76px;
+  height: 33.33px;
+}
+.group-div,
+.group-div1 {
+  position: absolute;
+  top: 197px;
+  left: 259px;
+  width: 70px;
+  height: 35px;
+}
+.group-div1 {
+  top: 469px;
+  left: 258px;
+}
+.rectangle-div9,
+.rectangle-icon4 {
+  position: absolute;
+  top: -6px;
+  left: -1px;
+  border-radius: 40px;
+  width: 329px;
+  height: 57px;
+}
+.rectangle-div9 {
+  top: 2.33px;
+  left: 0;
+  border-radius: 50px;
+  background: linear-gradient(94.33deg, #f1f1f1, #f1f1f1);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 319.88px;
+  height: 46.67px;
+}
+.group-div2 {
+  position: absolute;
+  top: 725px;
+  left: 20px;
+  width: 321px;
+  height: 49px;
+}
+.group-div3,
+.group-div4,
+.group-div5 {
+  position: absolute;
+  top: 197px;
+  left: 107px;
+  width: 70px;
+  height: 35px;
+}
+.group-div4,
+.group-div5 {
+  left: 183px;
+}
+.group-div5 {
+  top: 469px;
+  left: 182px;
+}
+.rectangle-div13,
+.rectangle-icon8 {
+  position: absolute;
+  top: -6px;
+  left: -1px;
+  border-radius: 40px;
+  width: 103px;
+  height: 43px;
+}
+.rectangle-div13 {
+  top: 1.67px;
+  left: 0;
+  border-radius: 50px;
+  background: linear-gradient(93.12deg, #b1008a, #060d67);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 94.67px;
+  height: 33.33px;
+}
+.group-div6,
+.group-div7 {
+  position: absolute;
+  top: 367px;
+  left: 34px;
+  width: 95px;
+  height: 35px;
+}
+.group-div7 {
+  top: 650px;
+}
+.rectangle-div15,
+.rectangle-icon10 {
+  position: absolute;
+  top: -6px;
+  left: -1px;
+  border-radius: 40px;
+  width: 97px;
+  height: 43px;
+}
+.rectangle-div15 {
+  top: 1.67px;
+  left: 0;
+  border-radius: 50px;
+  background: linear-gradient(93.12deg, #b1008a, #060d67);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 88.69px;
+  height: 33.33px;
+}
+.book-now,
+.group-div8,
+.group-div9 {
+  position: absolute;
+  top: 368px;
+  left: 141px;
+  width: 89px;
+  height: 35px;
+}
+.book-now,
+.group-div9 {
+  top: 651px;
+}
+.book-now {
+  top: 116px;
+  left: 229px;
+  text-transform: capitalize;
+  font-weight: 500;
+  color: #fff;
+  display: inline-block;
+  width: 105px;
+  height: 24px;
+}
+.clinic {
+  top: 207px;
+  left: 21px;
+  color: #fff;
+  width: 91px;
+}
+.clinic,
+.clinic1,
+.reschedule {
+  position: absolute;
+  text-transform: capitalize;
+  display: inline-block;
+  height: 24px;
+}
+.clinic1 {
+  top: 479px;
+  left: 20px;
+  color: #fff;
+  width: 91px;
+}
+.reschedule {
+  top: 379px;
+  left: 12px;
+  width: 139.35px;
+}
+.cancel,
+.reschedule,
+.reschedule1 {
+  font-size: 10px;
+  color: #fff;
+}
+.reschedule1 {
+  position: absolute;
+  top: 662px;
+  left: 12px;
+  text-transform: capitalize;
+  display: inline-block;
+  width: 139.35px;
+  height: 24px;
+}
+.cancel {
+  top: 380px;
+  left: 115.69px;
+}
+.back,
+.cancel,
+.cancel1 {
+  position: absolute;
+  text-transform: capitalize;
+  display: inline-block;
+  width: 139.35px;
+  height: 24px;
+}
+.cancel1 {
+  top: 663px;
+  left: 115.69px;
+  font-size: 10px;
+  color: #fff;
+}
+.back {
+  top: 742px;
+  left: 112px;
+  font-size: 12px;
+}
+.test {
+  top: 206px;
+  left: 101px;
+  font-weight: 500;
+}
+.medicine,
+.medicine1,
+.surgery,
+.surgery1,
+.test,
+.test1 {
+  position: absolute;
+  text-transform: capitalize;
+  display: inline-block;
+  width: 83px;
+  height: 24px;
+}
+.test1 {
+  top: 479px;
+  left: 100px;
+  color: #fff;
+}
+.medicine,
+.medicine1,
+.surgery,
+.surgery1 {
+  top: 206px;
+  left: 177px;
+  font-weight: 500;
+}
+.medicine,
+.medicine1,
+.surgery1 {
+  top: 478px;
+  left: 176px;
+}
+.medicine,
+.medicine1 {
+  top: 206px;
+  left: 254px;
+}
+.medicine1 {
+  top: 478px;
+  left: 253px;
+}
+.group-icon,
+.group-icon1 {
+  position: absolute;
+  top: 260px;
+  left: 31px;
+  width: 84px;
+  height: 84px;
+}
+.group-icon1 {
+  top: 532px;
+  left: 30px;
+}
+.rectangle-div17,
+.rectangle-div18 {
+  position: absolute;
+  top: 370px;
+  left: 240px;
+  border-radius: 27px;
+  background-color: transparent;
+  border: 1px solid #999;
+  box-sizing: border-box;
+  width: 89px;
+  height: 32px;
+}
+.rectangle-div18 {
+  top: 653px;
+}
+.view,
+.view1 {
+  position: absolute;
+  top: 380px;
+  left: 226px;
+  font-size: 10px;
+  text-transform: capitalize;
+  display: inline-block;
+  width: 139.35px;
+  height: 24px;
+}
+.view1 {
+  top: 663px;
+}
+.carbonview-icon,
+.carbonview-icon1 {
+  position: absolute;
+  top: 379px;
+  left: 264px;
+  width: 15px;
+  height: 15px;
+  overflow: hidden;
+}
+.carbonview-icon1 {
+  top: 662px;
+}
+.booking-history {
+  display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 34%;
+  position: relative;
+  border-radius: 0 15px 0 15px;
+  background-color: #fff;
+  height: 789px;
+  overflow: hidden;
+  text-align: center;
+  font-size: 13px;
+  color: #000;
+  font-family: Quicksand;
+}
